@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/lmkcheung020760/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=failed-test)](https://dev.azure.com/lmkcheung020760/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=18&branchName=failed-test)
 
 # Contributing
 
